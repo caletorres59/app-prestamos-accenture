@@ -1,0 +1,13 @@
+.jumbotron
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 25px;
+}
+h3
+{
+    color: rgb(81, 82, 81);
+}
+.btn[disabled]
+{
+    color: black;
+}

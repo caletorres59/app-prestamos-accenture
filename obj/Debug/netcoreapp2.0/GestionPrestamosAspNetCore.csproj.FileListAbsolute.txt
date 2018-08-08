@@ -1,0 +1,11 @@
+C:\Users\Car.Car-PC\source\repos\GestionPrestamosAspNetCore\GestionPrestamosAspNetCore\bin\Debug\netcoreapp2.0\GestionPrestamosAspNetCore.deps.json
+C:\Users\Car.Car-PC\source\repos\GestionPrestamosAspNetCore\GestionPrestamosAspNetCore\bin\Debug\netcoreapp2.0\GestionPrestamosAspNetCore.runtimeconfig.json
+C:\Users\Car.Car-PC\source\repos\GestionPrestamosAspNetCore\GestionPrestamosAspNetCore\bin\Debug\netcoreapp2.0\GestionPrestamosAspNetCore.runtimeconfig.dev.json
+C:\Users\Car.Car-PC\source\repos\GestionPrestamosAspNetCore\GestionPrestamosAspNetCore\bin\Debug\netcoreapp2.0\GestionPrestamosAspNetCore.dll
+C:\Users\Car.Car-PC\source\repos\GestionPrestamosAspNetCore\GestionPrestamosAspNetCore\bin\Debug\netcoreapp2.0\GestionPrestamosAspNetCore.pdb
+C:\Users\Car.Car-PC\source\repos\GestionPrestamosAspNetCore\GestionPrestamosAspNetCore\obj\Debug\netcoreapp2.0\GestionPrestamosAspNetCore.csprojResolveAssemblyReference.cache
+C:\Users\Car.Car-PC\source\repos\GestionPrestamosAspNetCore\GestionPrestamosAspNetCore\obj\Debug\netcoreapp2.0\GestionPrestamosAspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Car.Car-PC\source\repos\GestionPrestamosAspNetCore\GestionPrestamosAspNetCore\obj\Debug\netcoreapp2.0\GestionPrestamosAspNetCore.AssemblyInfoInputs.cache
+C:\Users\Car.Car-PC\source\repos\GestionPrestamosAspNetCore\GestionPrestamosAspNetCore\obj\Debug\netcoreapp2.0\GestionPrestamosAspNetCore.AssemblyInfo.cs
+C:\Users\Car.Car-PC\source\repos\GestionPrestamosAspNetCore\GestionPrestamosAspNetCore\obj\Debug\netcoreapp2.0\GestionPrestamosAspNetCore.dll
+C:\Users\Car.Car-PC\source\repos\GestionPrestamosAspNetCore\GestionPrestamosAspNetCore\obj\Debug\netcoreapp2.0\GestionPrestamosAspNetCore.pdb
